@@ -8,7 +8,7 @@ export default function Home() {
         <div className="text-center">
           <h1 className="text-3xl font-bold">시간표 등록 시스템</h1>
           <p className="mt-2 text-gray-600">
-            멘토링 가능 시간대를 조사하는 시스템입니다. 역할을 선택하여 시간표를
+            면접 가능 시간대를 조사하는 시스템입니다. 역할을 선택하여 시간표를
             작성해주세요.
           </p>
         </div>
